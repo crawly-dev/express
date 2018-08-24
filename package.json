@@ -1,7 +1,7 @@
 {
   "name": "crawly-express",
   "description": "Fast, unopinionated, minimalist web framework",
-  "version": "4.16.3",
+  "version": "4.99.101",
   "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "contributors": [
     "Aaron Heckmann <aaron.heckmann+github@gmail.com>",
